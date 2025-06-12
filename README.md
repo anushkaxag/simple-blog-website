@@ -1,3 +1,7 @@
+# To Run:
+1. Clone the Repository
+2. Run `skaffold dev` on terminal to run the project
+   
 A website built to explore and implement the concepts of microservices architecture! 🌐 While the UI/UX is kept very basic, the primary focus was on learning and applying core principles of scalability, separation of concerns, and cross-service communication.
 
 🔧 Technologies Used:
